@@ -1,0 +1,48 @@
+{
+    "title": "Fisrt survey",
+    "description": "This is First survey",
+    "questions": [
+        {
+            "question_type": "I", 
+            "question_text": "First question?",
+            "options": [
+                {
+                    "option_text": "Option text 1.1"
+                }
+            ]
+        },
+        {
+            "question_type": "S", 
+            "question_text": "Second question? single",
+            "options": [
+                {
+                    "option_text": "Option text 2.1"
+                },
+                {
+                    "option_text": "Option text 2.2"
+                },
+                {
+                    "option_text": "Option text 2.3"
+                }
+            ]
+        },
+        {
+            "question_type": "M", 
+            "question_text": "Third question? multiple",
+            "options": [
+                {
+                    "option_text": "Option text 3.1"
+                },
+                {
+                    "option_text": "Option text 3.2"
+                },
+                {
+                    "option_text": "Option text 3.3"
+                },
+                {
+                    "option_text": "Option text 3.4"
+                }
+            ]
+        }
+    ]
+}
